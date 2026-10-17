@@ -1,5 +1,9 @@
-<<<<<<< HEAD
+ HEAD
+ HEAD
 # Mahith — Cyber Security Portfolio
+=======
+# Mahith P — Cybersecurity Engineer & Security Researcher Portfolio
+ b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
 
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite 8](https://img.shields.io/badge/Vite-8.0_(Rolldown)-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
@@ -8,9 +12,13 @@
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-Edge_Runtime-F38020?logo=cloudflare)](https://workers.cloudflare.com/)
 [![Lenis Scroll](https://img.shields.io/badge/Lenis-Smooth_Scroll-black)](https://github.com/darkroomengineering/lenis)
 
-A high-performance, creative agency-grade developer portfolio architected with **React 19**, custom **WebGL GLSL shaders**, **GSAP ScrollTrigger**, and smooth momentum physics. Deployed globally to **Cloudflare Workers** with edge-native serverless microservices.
+A high-performance, creative agency-grade developer portfolio architected with **React 19**, custom **WebGL GLSL shaders**, **GSAP ScrollTrigger**, and smooth momentum physics.
 
+<<<<<<< HEAD
 
+=======
+**Live Production URL:** [https://p-mahith.github.io/portifolio-mahith/](https://p-mahith.github.io/portifolio-mahith/)
+>>>>>>> b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
 
 ---
 
@@ -104,7 +112,7 @@ portfolio/
 ├── functions/                     # Legacy Cloudflare Pages Functions (if needed)
 ├── public/                        # Static edge assets
 │   ├── screenshots/               # High-res UI documentation screenshots
-│   ├── Dinesh_Resume.pdf          # Professional resume
+│   ├── Mahith_P_Resume.pdf        # Professional resume
 │   ├── favicon.svg                # Vector brand favicon
 │   └── og-image.jpg               # OpenGraph social share card
 ├── src/
@@ -161,8 +169,8 @@ portfolio/
 Clone the repository and install project dependencies:
 
 ```bash
-git clone https://github.com/DineshS36/Portfolio-.git
-cd Portfolio-
+git clone https://github.com/p-mahith/portifolio-mahith.git
+cd portifolio-mahith
 npm install
 ```
 
@@ -217,12 +225,23 @@ npm run secret:resend
 
 ---
 
+<<<<<<< HEAD
+=======
+## 👨‍💻 Author & Engineering Channels
+
+**Mahith P**  
+*Cybersecurity Engineer & Security Researcher*
+
+- **Live Portfolio:** [https://p-mahith.github.io/portifolio-mahith/](https://p-mahith.github.io/portifolio-mahith/)
+- **GitHub:** [@p-mahith](https://github.com/p-mahith)
+- **LinkedIn:** [p-mahith-845124358](https://www.linkedin.com/in/p-mahith-845124358)
+- **WhatsApp:** [+91 63058 53667](https://wa.me/916305853667)
+- **Direct Email:** [p.mahith123@gmail.com](mailto:p.mahith123@gmail.com)
+>>>>>>> b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
 
 ---
 
 <div align="center">
-  <sub>© 2026 Dinesh. Designed with architectural precision and creative excellence.</sub>
+  <sub>© 2026 Mahith P. All security perimeters operational.</sub>
 </div>
-=======
-# portifolio-mahith
->>>>>>> e006cdef42ee03ffbcacd9c450fb703a9f2283f2
+
