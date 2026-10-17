@@ -242,6 +242,6 @@ npm run secret:resend
 ---
 
 <div align="center">
-  <sub>© 2026 Mahith P. All security perimeters operational.</sub>
+  <sub>© 2026 Pulabaigari Mahith. All rights reserved.</sub>
 </div>
 

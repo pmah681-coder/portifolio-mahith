@@ -19,7 +19,7 @@ export default function Footer() {
   return (
     <footer>
       <div className="container footer-inner font-mono text-gray">
-        <p>© 2026 MAHITH P. All security perimeters operational.</p>
+        <p>© 2026 Pulabaigari Mahith. All rights reserved.</p>
         <div className="social-links uppercase">
           <ScrambleLink href="https://www.linkedin.com/in/p-mahith-845124358" className="hoverable" target="_blank" rel="noopener noreferrer">LinkedIn</ScrambleLink>
           <ScrambleLink href="https://wa.me/916305853667" className="hoverable" target="_blank" rel="noopener noreferrer">WhatsApp</ScrambleLink>
