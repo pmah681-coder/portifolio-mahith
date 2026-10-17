@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Dinesh — AI-Native Full Stack Developer & System Architect Portfolio
+# Mahith — Cyber Security Portfolio
 
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite 8](https://img.shields.io/badge/Vite-8.0_(Rolldown)-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
