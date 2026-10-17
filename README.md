@@ -10,7 +10,7 @@
 
 A high-performance, creative agency-grade developer portfolio architected with **React 19**, custom **WebGL GLSL shaders**, **GSAP ScrollTrigger**, and smooth momentum physics. Deployed globally to **Cloudflare Workers** with edge-native serverless microservices.
 
-**Live Production URL:** [https://dinesh-portfolio.pages.dev](https://dinesh-portfolio.pages.dev)
+
 
 ---
 
@@ -217,16 +217,6 @@ npm run secret:resend
 
 ---
 
-## 👨‍💻 Author & Engineering Channels
-
-**Dinesh S**  
-*AI-Native Full Stack Developer & 4th-Year AIML Student*
-
-- **Live Portfolio:** [dinesh-portfolio.pages.dev](https://dinesh-portfolio.pages.dev)
-- **GitHub:** [@DineshS36](https://github.com/DineshS36)
-- **LinkedIn:** [dinesh-s-173698390](https://www.linkedin.com/in/dinesh-s-173698390)
-- **WhatsApp:** [+91 93453 80487](https://wa.me/919345380487?text=Hi%20Dinesh,%20saw%20your%20portfolio%20and%20wanted%20to%20connect!)
-- **Direct Email:** [itsdinesh036@gmail.com](mailto:itsdinesh036@gmail.com)
 
 ---
 
