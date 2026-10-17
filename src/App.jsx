@@ -17,7 +17,7 @@ export default function App() {
   );
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       {/* High-tech preloader (runs once per session) */}
       <Preloader onLoaded={() => setIsPreloaderDone(true)} />
 

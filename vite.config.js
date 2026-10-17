@@ -164,6 +164,7 @@ function devEmailApiPlugin() {
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/portifolio-mahith/',
   plugins: [react(), cloudflare(), devEmailApiPlugin()],
   build: {
     cssMinify: 'esbuild',
