@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dinesh — AI-Native Full Stack Developer & System Architect Portfolio
 
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -232,3 +233,6 @@ npm run secret:resend
 <div align="center">
   <sub>© 2026 Dinesh. Designed with architectural precision and creative excellence.</sub>
 </div>
+=======
+# portifolio-mahith
+>>>>>>> e006cdef42ee03ffbcacd9c450fb703a9f2283f2
