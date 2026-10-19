@@ -95,11 +95,11 @@ export default async function handler(request) {
           <div class="field-label">Sender</div>
           <div class="field-value">${safeName}</div>
           <div class="field-label">Email Address</div>
-          <div class="field-value">${cleanEmail ? \`<a href="mailto:\${safeEmail}">\${safeEmail}</a>\` : '<span style="color:#94a3b8;">Not provided</span>'}</div>
+          <div class="field-value">${cleanEmail ? `<a href="mailto:${safeEmail}">${safeEmail}</a>` : '<span style="color:#94a3b8;">Not provided</span>'}</div>
           <div class="field-label">Message Payload</div>
           <div class="message-box">${safeMessage}</div>
           <div class="footer">
-            Dispatched from Mahith P Cybersecurity Portfolio • \${new Date().toUTCString()}
+            Dispatched from Mahith P Cybersecurity Portfolio • ${new Date().toUTCString()}
           </div>
         </div>
       </body>
