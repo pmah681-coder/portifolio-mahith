@@ -162,9 +162,11 @@ function devEmailApiPlugin() {
   };
 }
 
+const isGitHubPages = process.env.GITHUB_ACTIONS && !process.env.VERCEL;
+
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/portifolio-mahith/',
+  base: isGitHubPages ? '/portifolio-mahith/' : '/',
   plugins: [react(), cloudflare(), devEmailApiPlugin()],
   build: {
     cssMinify: 'esbuild',
