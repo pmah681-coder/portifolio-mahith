@@ -1,9 +1,4 @@
- HEAD
- HEAD
-# Mahith — Cyber Security Portfolio
-=======
 # Mahith P — Cybersecurity Engineer & Security Researcher Portfolio
- b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
 
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite 8](https://img.shields.io/badge/Vite-8.0_(Rolldown)-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
@@ -14,11 +9,7 @@
 
 A high-performance, creative agency-grade developer portfolio architected with **React 19**, custom **WebGL GLSL shaders**, **GSAP ScrollTrigger**, and smooth momentum physics.
 
-<<<<<<< HEAD
-
-=======
-**Live Production URL:** [https://p-mahith.github.io/portifolio-mahith/](https://p-mahith.github.io/portifolio-mahith/)
->>>>>>> b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
+**Live Production URL:** [https://pmah681-coder.github.io/portifolio-mahith/](https://pmah681-coder.github.io/portifolio-mahith/)
 
 ---
 
@@ -225,19 +216,16 @@ npm run secret:resend
 
 ---
 
-<<<<<<< HEAD
-=======
 ## 👨‍💻 Author & Engineering Channels
 
 **Mahith P**  
 *Cybersecurity Engineer & Security Researcher*
 
-- **Live Portfolio:** [https://p-mahith.github.io/portifolio-mahith/](https://p-mahith.github.io/portifolio-mahith/)
-- **GitHub:** [@p-mahith](https://github.com/p-mahith)
+- **Live Portfolio:** [https://pmah681-coder.github.io/portifolio-mahith/](https://pmah681-coder.github.io/portifolio-mahith/)
+- **GitHub:** [@pmah681-coder](https://github.com/pmah681-coder)
 - **LinkedIn:** [p-mahith-845124358](https://www.linkedin.com/in/p-mahith-845124358)
 - **WhatsApp:** [+91 63058 53667](https://wa.me/916305853667)
 - **Direct Email:** [p.mahith123@gmail.com](mailto:p.mahith123@gmail.com)
->>>>>>> b8989a4 (chore: remove old Dinesh attribution, conflict markers, and unused resume)
 
 ---
 
